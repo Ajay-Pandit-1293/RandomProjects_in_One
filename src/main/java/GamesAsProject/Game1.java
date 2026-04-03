@@ -1,6 +1,7 @@
 package GamesAsProject;
 
 import java.util.Scanner;
+// This is the professional version as Game1 of the Number guessing game , Give it a try dude.
 
 public class Game1 {
     public static void main(String[] args) {
